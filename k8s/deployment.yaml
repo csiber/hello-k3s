@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: ghcr.io/<GITHUB_USER>/hello-k3s:dev # kustomize felülírja
+        image: ghcr.io/csiber/hello-k3s:dev # kustomize felülírja
         imagePullPolicy: Always
         ports: [{ containerPort: 80 }]
