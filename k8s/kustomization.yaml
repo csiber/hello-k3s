@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/csiber/hello-k3s
   newName: ghcr.io/csiber/hello-k3s
-  newTag: dc61be047fc3f5e378609c143087c7e53d8e7509
+  newTag: 91d5d7e909a4c02ab193a6e67758593d54e435e5
